@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola mi nombre es David Carcamo 👋
 
-<!--
-**davidcarcamoc/davidcarcamoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional especializado en desarrollo web con habilidades en Java, JavaScript, HTML, y CSS, y en análisis de datos con Python, Oracle Analytics y MySQL. Me destaco por mi enfoque en la excelencia técnica y la precisión, además de tener una visión comercial que me permite identificar oportunidades en los datos para impulsar estrategias innovadoras. Priorizo prácticas éticas y soluciones responsables, y cuento con habilidades de gestión, organización y versatilidad técnica que me permiten abordar desafíos con eficacia. Mi compromiso social y ética laboral se reflejan en cada proyecto en el que participo, aportando una perspectiva integral y responsable.
 
-Here are some ideas to get you started:
+#### Mis Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Encriptador](https://github.com/davidcarcamoc/Encryption.git):Encriptador de texto, puedes hacer click en el enlace y echa un vistazo.
+  
+
+#### Contacto
+
+- 📫 Cómo contactarme: [dacace94@gmail.com]
+
+¡No dudes en echar un vistazo a mis repositorios para conocer más sobre lo que estoy haciendo! Siéntete libre de contactarme si quieres colaborar en algún proyecto o simplemente charlar sobre temas relacionados con tecnologia.
