@@ -4,7 +4,8 @@ Soy un profesional especializado en desarrollo web con habilidades en Java, Java
 
 #### Mis Proyectos Destacados
 
-- [Encriptador](https://github.com/davidcarcamoc/Encryption.git):Encriptador de texto, puedes hacer click en el enlace y echa un vistazo.
+- [Encriptador de texto](https://github.com/davidcarcamoc/Encryption.git)
+- [Conversor de divisas Java](https://github.com/davidcarcamoc/coversor_chalengue.git)
   
 
 #### Contacto
